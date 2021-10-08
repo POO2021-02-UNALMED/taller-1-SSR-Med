@@ -1,3 +1,5 @@
 Santiago Salazar Ramirez
 19 años
 Poder entender de POO
+
+Es importante tener cuidado a la hora de editar los archivos con el sentido de que se podría solapar un trabajo sobre otro, causando errores en el trabajo grupal.
