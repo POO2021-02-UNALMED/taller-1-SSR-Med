@@ -3,3 +3,5 @@ Santiago Salazar Ramirez
 Mi expectativa de Poo es poder aprender de forma efectiva el cómo se usa la programación orientada a objetos.
 Porque ahora la carpeta sí posee algo, haciendo que al fin se pueda visualizar ella.
 
+Por las complicaciones a la hora de manejar archivos en grupos. Pueden darse errores en la edición del archivo original, haciendo que se haga ineficaz el trabajo.
+
