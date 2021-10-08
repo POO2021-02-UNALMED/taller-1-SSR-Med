@@ -1,1 +1,0 @@
-No se puede visualizar la carpeta en el github si no se le incluye algún archivo, eso es lo que creo que sucedió al parecer (porque en sí no apareció ningún error en pantalla).
