@@ -1,3 +1,1 @@
-Santiago Salazar Ramirez
-19
-Mi aspiración es poder entender de forma general lo que es POO.
+Ahora sí se deja ver la carpeta porque existe algo dentro de él.
